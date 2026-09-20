@@ -1,0 +1,20 @@
+{
+  "name": "middlewre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "camelcase-keys": "^10.0.2",
+    "express": "^5.2.1",
+    "morgan": "^1.11.0",
+    "omit-empty": "^1.0.0",
+    "save": "^2.9.0"
+  }
+}
